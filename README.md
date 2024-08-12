@@ -12,6 +12,7 @@
 
 
 ##### Details :-
-HTML And CSS
-Google Fonts (Poppins)
+1) HTML And CSS
+2) Google Fonts (Poppins)
+3) External website is used for User and Password symbol 
 
